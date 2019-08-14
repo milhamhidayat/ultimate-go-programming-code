@@ -57,4 +57,4 @@
 - Jika tidak mengerti data, maka tidak akan mengerti masalah yang dihadapi
 - Kita mengerti masalah lebih baik dengan memahami data
 
-[Sample Code]()
+[Sample Code](https://github.com/milhamhidayat/ultimate-go-programming-code/blob/master/2.language-syntax/1.variables/example1.go)
